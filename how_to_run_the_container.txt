@@ -1,0 +1,6 @@
+
+run image locally: 
+docker run -d -p 5000:5000 --name my_weather_app_container my_weather_app:3.0
+
+run image from dockerhub:
+docker run -d -p 5000:5000 --name my_weather_app rotemalmog10/my_weather_app:3.0
