@@ -12,6 +12,13 @@ A simple Flask-based weather application where users can enter a city name and g
 - 🐳 Docker support for easy deployment
 - 🎨 Clean and responsive UI
 
+## 🛠️ Technologies Used
+- Flask (Python)
+- OpenWeather API (https://www.weatherapi.com/)
+- HTML, CSS
+- Docker 🐳
+- Bootstrap
+
 ### 🔍 Search Page
 Users enter a city name to check the weather.
 
