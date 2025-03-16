@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_KEY = "4f5f0ce3fc614a0ea3a160109242911"
+API_KEY = "insert your api key here"
 
 def get_weather(city):
     url = f"http://api.weatherapi.com/v1/current.json?key={API_KEY}&q={city}&aqi=no"
